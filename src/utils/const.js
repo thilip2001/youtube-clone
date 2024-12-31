@@ -3,3 +3,5 @@ export const YOUTUBE_VIDEO_API_URL = `https://youtube.googleapis.com/youtube/v3/
 
 export const YOUTUBE_SEARCH_SUGGESTIONS_URL =
   "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+
+export const OFFSET_LIVE_CHAT = 10;
